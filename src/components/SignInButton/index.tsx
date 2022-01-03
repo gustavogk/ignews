@@ -8,8 +8,6 @@ export function SignInButton (){
 
     const { data: session} = useSession();
 
-    console.log(session);
-
     return session ? (
         <button 
         type='button'
