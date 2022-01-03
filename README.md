@@ -33,9 +33,6 @@
 
 * [Technologies](#rocket-technologies) 
 * [Screenshots](#camera-screenshots) 
-* [How to Run](#computer-how-to-run)
-* [Issues](#bug-issues)
-* [Contributing](#sparkles-issues)
 * [License](#page_facing_up-license)
   
 # :rocket: Technologies
