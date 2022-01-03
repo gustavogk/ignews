@@ -55,3 +55,10 @@ This project was made using the follow technologies:
 * [FaunaDB](https://fauna.com/)
 * [Stripe](https://stripe.com/en-mx/)
 * [Prismic](https://prismic.io/)
+  
+# :page_facing_up: License
+
+This project is under the [MIT license](./LICENSE).
+Made with 💖 by [Gustavo Assunção](https://www.linkedin.com/in/gustavo-gk/). 
+
+Thank you! 🌠
