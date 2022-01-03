@@ -38,6 +38,14 @@
 * [Contributing](#sparkles-issues)
 * [License](#page_facing_up-license)
   
+# :camera: Screenshots
+<div align="center">
+   <img src="./.github/home.png" width="400px">
+   <img src="./.github/posts.png" width="400px">
+   <img src="./.github/postpreview.png" width="400px">
+   <img src="./.github/post.png" width="400px">
+</div>
+  
 # :rocket: Technologies
 This project was made using the follow technologies:
 
