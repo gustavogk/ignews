@@ -49,6 +49,7 @@ This project was made using the follow technologies:
 * [Prismic](https://prismic.io/)
   
 # :camera: Screenshots
+  
 <div align="center">
    <img src="./.github/home.png" width="1200px">
    <img src="./.github/posts.png" width="1200px">
