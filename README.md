@@ -40,7 +40,7 @@
   
 # :camera: Screenshots
 <div align="center">
-   <img src="./.github/home.png" width="400px">
+   <img src="./.github/home.png" width="1200px">
    <img src="./.github/posts.png" width="400px">
    <img src="./.github/postpreview.png" width="400px">
    <img src="./.github/post.png" width="400px">
