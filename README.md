@@ -28,3 +28,22 @@
     <h1></h1>
   </sub>
 </div>
+  
+# 📌 Contents
+
+* [Screenshots](#camera-screenshot) 
+* [Technologies](#rocket-technologies) 
+* [How to Run](#computer-how-to-run)
+* [Issues](#bug-issues)
+* [Contributing](#sparkles-issues)
+* [License](#page_facing_up-license)
+  
+# :rocket: Technologies
+This project was made using the follow technologies:
+
+* [Typescript](https://www.typescriptlang.org/)      
+* [React](https://reactjs.org/)      
+* [NextJS](https://nextjs.org/)
+* [FaunaDB](https://fauna.com/)
+* [Stripe](https://stripe.com/en-mx/)
+* [Prismic](https://prismic.io/)
