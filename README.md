@@ -33,6 +33,8 @@
 
 * [Technologies](#rocket-technologies) 
 * [Screenshots](#camera-screenshots) 
+* [Issues](#bug-issues)
+* [Contributing](#sparkles-contributing)
 * [License](#page_facing_up-license)
   
 # :rocket: Technologies
@@ -54,6 +56,17 @@ This project was made using the follow technologies:
    <img src="./.github/post.png" width="1200px">
 </div>
   
+# :bug: Issues
+
+Create a <a href="https://github.com/gustavogk/dtmoney/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
+
+# :sparkles: Contributing
+
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: My new feature'`;
+- Push to your branch: `git push origin my-feature`.
+
 # :page_facing_up: License
 
 This project is under the [MIT license](./LICENSE).
